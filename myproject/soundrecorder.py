@@ -7,7 +7,7 @@ import wavio as wv
 freq = 44100
 
 # Recording duration
-duration = 5
+duration = 60
 
 # Start recorder with the given values of 
 # duration and sample frequency
@@ -21,9 +21,7 @@ print(recording.shape)
 print("Recording complete")
 # This will convert the NumPy array to an audio
 # file with the given sampling frequency
-write(r"myproject\recording0.wav", freq, recording)
+
 
 # Convert the NumPy array to audio file
-wv.write(r"myproject\sampwidth2.wav", recording, freq, sampwidth=2)
-wv.write(r"myproject\sampwidth3.wav", recording, freq, sampwidth=3)
-wv.write(r"myproject\sampwidth4.wav", recording, freq, sampwidth=4)
+wv.write(r"myproject\recording0.wav", recording, freq, sampwidth=2)

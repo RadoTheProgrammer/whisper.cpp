@@ -1,0 +1,10 @@
+[00:00:00.000 --> 00:00:08.660]   Bon les gars, là je fais un test de journal intime de 60 secondes, du coup pour pouvoir
+[00:00:08.660 --> 00:00:13.900]   tester après, pour pouvoir tester avec la transcription, bon attendez, j'arrête avec
+[00:00:13.900 --> 00:00:20.520]   mon stylo et je reste calme, ok ? Ok du coup comme je le disais, ce test il serait utile
+[00:00:20.520 --> 00:00:26.680]   pour le projet whisper.cpp, d'ailleurs c'est en français du coup ça veut dire que je
+[00:00:26.680 --> 00:00:31.960]   vais pas pouvoir utiliser base.en, mais sûrement le base tout court, je sais pas trop c'est
+[00:00:31.960 --> 00:00:36.520]   quoi les différences entre tous ces modèles là, mais bon je pense que je vais continuer
+[00:00:36.520 --> 00:00:44.720]   à utiliser base parce que voilà quoi, alors oui ça transcrit phrase par phrase, du coup
+[00:00:44.720 --> 00:00:51.160]   ça fait que je vais pouvoir écrire phrase par phrase quoi, et voilà quoi, bon on attend
+[00:00:51.160 --> 00:00:58.360]   juste que ça arrive jusqu'à 60 secondes et ça sera bon, ouais bon, on attend donc les
+[00:00:58.360 --> 00:00:59.960]   gars, on va quand même pas attendre.
