@@ -1,11 +1,14 @@
-[00:00:00.000 --> 00:00:09.000]   c'est bon là il est enregistre ok c'est bon du coup bah comme je l'ai dit avant bah je
-[00:00:09.000 --> 00:00:15.160]   fais comme ça je compare les deux méthodes de transcription genre un qui est live un qui est
-[00:00:15.160 --> 00:00:20.440]   pas live après oui je sais que vous espère c'est pas le seul où tu les transcriptions c'est
-[00:00:20.440 --> 00:00:26.080]   juste que moi j'aime oh ta gueule toi moi j'aime bien vu que c'est celui que tu as j'ai piqué
-[00:00:26.080 --> 00:00:31.600]   de l'utilis et fonctionne merveillissement bien c'est peut-être le meilleur alors oui après je vais
-[00:00:31.600 --> 00:00:35.720]   tester d'autres transcriptions d'autres méthodes de transcription nous n'inquiétait pas
-[00:00:35.720 --> 00:00:41.920]   et c'est vrai que vous espère c'est plus c'est plus une libérie que une transcription
-[00:00:41.920 --> 00:00:50.280]   ouais du coup bah c'est peut-être pas accessible à tous après je sais qu'on peut l'utiliser sur iOS   
-[00:00:50.280 --> 00:00:54.240]   mais c'est un peu compliqué je vais acoller tes trucs j'y cru qu'on pouvait utiliser comme
-[00:00:54.240 --> 00:00:58.320]   l'éplication maintenant en fait oui espère lui il fait pas les applications c'est plutôt
-[00:00:58.320 --> 00:00:59.320]   des libres rires.
+[00:00:00.000 --> 00:00:08.940]   Voilà, donc là, ça enregistre normalement, ça enregistre avec le 100 records d'heures.
+[00:00:08.940 --> 00:00:15.620]   Donc là, je parle, je parle pour le réunir parce que j'essai plus de quoi je pourrais parler,
+[00:00:15.620 --> 00:00:20.040]   j'ai parlé de tout, oui, le réun, je sais pas trop de quoi je pourrais parler.
+[00:00:20.040 --> 00:00:23.700]   Ouais, et après, on va pouvoir comprer les deux.
+[00:00:23.700 --> 00:00:29.760]   Alors là, la différence avec l'ancien, c'était que là, le step, il est de 10
+[00:00:29.760 --> 00:00:30.760]   seconde.
+[00:00:30.760 --> 00:00:35.600]   Il y a été de genre 0,5 seconde, je ne sais pas si ça change quelque chose.
+[00:00:35.600 --> 00:00:37.800]   Je pense que ça change réellement quelque chose.
+[00:00:37.800 --> 00:00:40.880]   Ah bon, là, ça change réellement quelque chose parce que voilà,
+[00:00:40.880 --> 00:00:46.320]   quand le step avant, c'était vraiment merdique, de chez merdique, ça marchait pas du tout.
+[00:00:46.320 --> 00:00:48.480]   Ça marchait pas du tout.
+[00:00:48.480 --> 00:00:52.480]   Et je pense que c'est parce que voilà, il y a un monde contexte, mais là, puisque c'est
+[00:00:52.480 --> 00:00:58.120]   step 10 seconde, lenz, 10 secondes, je vois pas trop si quoi la différence, mais je
+[00:00:58.120 --> 00:00:59.120]   On se joue à vrai.

@@ -1,0 +1,39 @@
+transcription = """
+ Bon les gars maintenant je reteste parce que l├á franchement ├ºa commence ├á me casser les couilles ce truc de live.
+ Je pense que c'est pas tr├¿s au point, ├á mon avis. -Ouais. -C'est d├⌐finitivement pas au point. C'est d├⌐finitivement pas au point parce que...
+ Parce que regarde, regarde d├⌐j├á ce truc. Non mais il transcrit ├á moiti├⌐ des trucs j'ai l'impression. Non je sais pas. Peut-├¬tre que pas.
+ En fait il transcrit en retard. Non pas en retard mais je sais pas comment expliquer.
+ Ok, non il transcrit pas vraiment en retard. Enfin, si, si quand m├¬me."""
+# Replace weird characters using encoding/decoding
+replacements = {
+    "├á": "à",
+    "├º": "ç",
+    "├⌐": "é",
+    "├¿": "u",
+    "├¬": "ê",
+    "├ó": "ô",
+    "├Ä": "Ä",
+    "├ë": "ë",
+    "├": "",
+    "┬": "",
+    "┤": "",
+    "┴": "",
+    "┼": "",
+    "┘": "",
+    "└": "",
+    "┐": "",
+    "┌": "",
+    "┬": "",
+    "┴": "",
+    "┼": "",
+    "┘": "",
+    "└": "",
+    "┐": "",
+    "┌": "",
+}
+
+fixed_transcription = transcription
+for bad, good in replacements.items():
+    fixed_transcription = fixed_transcription.replace(bad, good)
+
+print(fixed_transcription)
