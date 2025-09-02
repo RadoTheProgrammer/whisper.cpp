@@ -2,7 +2,8 @@
 import sounddevice as sd
 from scipy.io.wavfile import write
 import wavio as wv
-
+import datetime
+now = datetime.datetime.now()
 # Sampling frequency
 freq = 44100
 
@@ -24,4 +25,4 @@ print("Recording complete")
 
 
 # Convert the NumPy array to audio file
-wv.write(r"myproject\recording0.wav", recording, freq, sampwidth=2)
+wv.write(rf"myproject\recording-{now.strftime("%Y-%m-%d_%H-%M-%S")}.wav", recording, freq, sampwidth=2)
